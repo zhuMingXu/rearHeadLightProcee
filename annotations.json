@@ -1,0 +1,1606 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 970.1928000000001,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 952.2999000000002,
+                "x": 964.2285000000002,
+                "y": 240.56010000000006
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 36.386713712547134,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 53.153140619309056,
+                "x": 438.06749450007703,
+                "y": 649.6098595151794
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 21.63045236775565,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 23.432990065068566,
+                "x": 185.6613828232357,
+                "y": 617.3691613296915
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 36.95202279491582,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 36.05075394625936,
+                "x": 143.30174693638094,
+                "y": 609.2577416917832
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.399999999999977,
+                "type": "headlight",
+                "width": 6.700000000000017,
+                "x": 188.25,
+                "y": 625.1500000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-28-192_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 194.58000000000015,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 245.34000000000015,
+                "x": 1670.8500000000013,
+                "y": 666.9300000000005
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 119.00000000000011,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 274.0000000000002,
+                "x": 1449.0000000000014,
+                "y": 716.0000000000007
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 102.93000000000018,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 135.36000000000016,
+                "x": 12.690000000000015,
+                "y": 595.0200000000007
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 113.173381620643,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 133.29309390875727,
+                "x": 220.81384236205457,
+                "y": 610.1302751370665
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 25.141778756846406,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 28.550833503537405,
+                "x": 184.30202224298407,
+                "y": 634.2972488062006
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 49.22908325815206,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 47.08868833388459,
+                "x": 127.71023048129308,
+                "y": 621.0712605249477
+            },
+            {
+                "class": "headlight(h)",
+                "height": 23.82737850000001,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 28.87317630000004,
+                "x": 242.7589386000001,
+                "y": 649.0858225500003
+            },
+            {
+                "class": "headlight(h)",
+                "height": 4.350000000000023,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.600000000000023,
+                "x": 186.5,
+                "y": 644.3000000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-43-189_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 100.11000000000035,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 102.93000000000028,
+                "x": 8.460000000000022,
+                "y": 602.0700000000015
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 69.00000000000011,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 60.00000000000017,
+                "x": 96.00000000000026,
+                "y": 620.0000000000017
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 44.23482843486124,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 41.38096853583798,
+                "x": 129.49389291818267,
+                "y": 626.4222478356165
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 25.80617993797682,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 27.32419052256361,
+                "x": 181.65526662222837,
+                "y": 633.7694190650168
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 111.40584238242297,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 134.2800457613235,
+                "x": 228.31843743013678,
+                "y": 616.7562985125772
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 68.21430560638828,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 135.58645929170996,
+                "x": 682.1430560638825,
+                "y": 689.7224233534811
+            },
+            {
+                "class": "headlight(h)",
+                "height": 23.757794999999987,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 28.728045000000037,
+                "x": 252.88632000000027,
+                "y": 654.0849000000007
+            },
+            {
+                "class": "headlight(h)",
+                "height": 4.399999999999977,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.400000000000006,
+                "x": 182.95000000000027,
+                "y": 643.800000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-44-188_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 125.57116757042638,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 75.3427005422559,
+                "x": 1841.7104576995869,
+                "y": 753.4270054225583
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 91.43243407019224,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 242.2365785755744,
+                "x": 1231.369274425836,
+                "y": 727.8971699354267
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 112.00000000000045,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 253.0000000000009,
+                "x": 942.0000000000032,
+                "y": 695.0000000000023
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 102.93000000000029,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 93.06000000000031,
+                "x": -4.230000000000015,
+                "y": 603.4800000000021
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 44.16217358416577,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 42.059212937300714,
+                "x": 133.68821255070586,
+                "y": 631.7894629081673
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 26.13679661103697,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 27.939334308349743,
+                "x": 183.55842217636243,
+                "y": 639.600459596523
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 118.70630249987471,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 144.35893566722044,
+                "x": 248.47844675821224,
+                "y": 619.1841456667191
+            },
+            {
+                "class": "headlight(h)",
+                "height": 20.774493962851352,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 25.37793296598312,
+                "x": 279.03922572829833,
+                "y": 662.7771795534666
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.105967097426287,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 8.371411171361757,
+                "x": 185.29910826822706,
+                "y": 650.4170878175032
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-45-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 130.04408217263835,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 164.77898359985772,
+                "x": 266.86570608717324,
+                "y": 610.4023531295502
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 49.26936372655234,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 49.8702096256566,
+                "x": 137.5937108948839,
+                "y": 620.9742367242904
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 25.8363736614848,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 28.84060315700623,
+                "x": 193.47237951158348,
+                "y": 633.8924235550328
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 115.62000000000046,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 77.55000000000035,
+                "x": -2.820000000000013,
+                "y": 590.7900000000028
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 128.91973203897135,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 204.26243258122736,
+                "x": 1717.8135723634364,
+                "y": 716.592796268568
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 110.00000000000057,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 219.00000000000125,
+                "x": 916.0000000000049,
+                "y": 688.0000000000036
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 112.00000000000068,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 208.00000000000114,
+                "x": 1309.000000000007,
+                "y": 711.0000000000038
+            },
+            {
+                "class": "headlight(h)",
+                "height": 28.032210000000077,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 35.88122880000009,
+                "x": 301.7667406500009,
+                "y": 655.8135529500018
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.100000000000023,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.7000000000000455,
+                "x": 195.35000000000068,
+                "y": 644.0500000000022
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-46-189_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 125.49000000000058,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 73.32000000000033,
+                "x": -2.820000000000013,
+                "y": 587.9700000000028
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 49.98437034648646,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 59.30349024159409,
+                "x": 134.2800457613238,
+                "y": 626.9226111254234
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 26.312183466172428,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 27.57719228666147,
+                "x": 200.37739716546693,
+                "y": 642.1184772802463
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 141.3409788240035,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 179.06543936421804,
+                "x": 277.1490367687756,
+                "y": 612.14224636588
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 224.1900000000012,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 547.0800000000029,
+                "x": 1199.9100000000064,
+                "y": 650.0100000000034
+            },
+            {
+                "class": "headlight(h)",
+                "height": 27.384560223758626,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 34.46677407473072,
+                "x": 316.69299603596716,
+                "y": 661.950921270855
+            },
+            {
+                "class": "headlight(h)",
+                "height": 4.899999999999977,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.750000000000057,
+                "x": 202.2000000000011,
+                "y": 652.3000000000036
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-47-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 188.94000000000096,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 506.1900000000028,
+                "x": 1136.460000000006,
+                "y": 675.3900000000036
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 174.84000000000094,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 352.5000000000018,
+                "x": 1501.650000000008,
+                "y": 683.8500000000037
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 128.91973203897135,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 66.9712893708942,
+                "x": -1.6742822342723551,
+                "y": 587.6730642295967
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 52.814244756300354,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 53.820230370705985,
+                "x": 136.31105075197496,
+                "y": 625.2200593531545
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 25.32800660383191,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 30.322261427122754,
+                "x": 196.55960054523098,
+                "y": 643.5454072297581
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 155.29042516120296,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 202.4748235755684,
+                "x": 282.50911962018836,
+                "y": 608.0217415927098
+            },
+            {
+                "class": "headlight(h)",
+                "height": 26.938755000000242,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 36.68044500000025,
+                "x": 332.21151000000197,
+                "y": 662.9319450000039
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.25,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 9.100000000000023,
+                "x": 199.0,
+                "y": 653.0
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-48-185_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 172.6112802753371,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 237.7138046698414,
+                "x": 301.6217873323365,
+                "y": 601.4517620666592
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 55.067526652908896,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 60.57427931819976,
+                "x": 133.85644940245547,
+                "y": 621.839454819002
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 28.80455240306003,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 29.651745120797102,
+                "x": 201.63186682142023,
+                "y": 639.2069055326117
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 143.98827214742278,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 51.902749262443095,
+                "x": -3.348564468544716,
+                "y": 577.6273708239635
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 207.61099704977232,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 453.7304854878091,
+                "x": 1190.4146685676465,
+                "y": 659.6672003033091
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 120.54832086760985,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 202.58815034695522,
+                "x": 1717.8135723634393,
+                "y": 723.2899252056586
+            },
+            {
+                "class": "headlight(h)",
+                "height": 36.56100989250001,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 46.63999099800003,
+                "x": 364.22670936150035,
+                "y": 660.4697030310007
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.692559596526053,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 8.036554724507255,
+                "x": 202.83929268209502,
+                "y": 650.0400774562393
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-49-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 159.04800000000114,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 41.750100000000295,
+                "x": -1.988100000000014,
+                "y": 572.572800000004
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 242.54820000000177,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 528.8346000000038,
+                "x": 1373.7771000000096,
+                "y": 646.1325000000045
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 54.6099290780146,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 67.37588652482319,
+                "x": 130.49645390071015,
+                "y": 625.5319148936215
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 28.538598990233254,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 31.392458889256545,
+                "x": 202.26732034327804,
+                "y": 644.6156046918932
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 206.3272206612986,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 289.7002608468847,
+                "x": 313.2805146367474,
+                "y": 594.5592562729669
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 64.53900709219909,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 99.29078014184472,
+                "x": 572.3404255319194,
+                "y": 678.7234042553245
+            },
+            {
+                "class": "headlight(h)",
+                "height": 41.79812752575003,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 55.7308367010001,
+                "x": 395.1316322100905,
+                "y": 666.2621527604559
+            },
+            {
+                "class": "headlight(h)",
+                "height": 4.75,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 8.900000000000006,
+                "x": 204.05,
+                "y": 655.7
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-50-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 179.1481990671425,
+                "type": "vehicle",
+                "veh": "small_r",
+                "width": 380.0620671798256,
+                "x": 939.2723334267937,
+                "y": 654.6443536004925
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 122.67000000000098,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 267.90000000000214,
+                "x": 1245.03000000001,
+                "y": 697.9500000000056
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 86.01000000000067,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 184.71000000000151,
+                "x": 774.0900000000062,
+                "y": 695.1300000000056
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 143.14320000000112,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 19.88100000000016,
+                "x": -1.9881000000000157,
+                "y": 592.4538000000047
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 273.5400000000021,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 421.5900000000034,
+                "x": 341.2200000000027,
+                "y": 572.4600000000046
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 58.85015844273471,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 60.359136864343355,
+                "x": 135.8080579447725,
+                "y": 622.7050953171421
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 30.179568432171664,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 32.191539660983125,
+                "x": 204.2150797243616,
+                "y": 641.8188219908508
+            },
+            {
+                "class": "headlight(h)",
+                "height": 62.18732632726892,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 88.0009334819843,
+                "x": 474.97037164676357,
+                "y": 665.5217262797537
+            },
+            {
+                "class": "headlight(h)",
+                "height": 6.373992465874835,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.5543614410368605,
+                "x": 206.0924230632863,
+                "y": 653.0981539571382
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-51-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 125.25030000000106,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 278.33400000000233,
+                "x": 1393.6581000000117,
+                "y": 711.739800000006
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 414.5400000000035,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 726.1500000000061,
+                "x": 391.9800000000033,
+                "y": 535.8000000000045
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 58.14739544260033,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 54.22333808144322,
+                "x": 138.4122051026314,
+                "y": 620.3577955501959
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 28.538598990233254,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 32.10592386401245,
+                "x": 203.69425029279,
+                "y": 640.6915473307371
+            },
+            {
+                "class": "headlight(h)",
+                "height": 111.90646120971087,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 181.15550898799745,
+                "x": 679.1946606094335,
+                "y": 675.3167139338495
+            },
+            {
+                "class": "headlight(h)",
+                "height": 6.25,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 8.650000000000034,
+                "x": 205.30000000000058,
+                "y": 650.3500000000018
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-52-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 60.32435746646752,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 60.92162833247214,
+                "x": 127.21869445898595,
+                "y": 618.1753463147909
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 28.895331477611194,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 33.5328538135241,
+                "x": 197.98653049474342,
+                "y": 639.2646173812257
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 701.7993000000067,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 1210.7529000000116,
+                "x": 437.38200000000415,
+                "y": 479.1321000000045
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 121.27410000000111,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 137.17890000000125,
+                "x": 1783.325700000017,
+                "y": 733.608900000007
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 14.275416751768716,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 13.849284908432367,
+                "x": 191.12013173636686,
+                "y": 642.3937538295943
+            },
+            {
+                "class": "headlight(h)",
+                "height": 192.74364464321627,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 344.73577584758095,
+                "x": 1119.0145311857584,
+                "y": 685.0659826747458
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.150000000000091,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.950000000000017,
+                "x": 200.2500000000011,
+                "y": 650.6000000000035
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-53-191_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 781.4042615572542,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 1444.7716255983069,
+                "x": 472.1475900648062,
+                "y": 427.29356900864957
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 60.287790366867966,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 48.15888579601872,
+                "x": 134.13141525409654,
+                "y": 617.5039356511732
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 27.27243797352844,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 32.38602009356512,
+                "x": 193.46385687471786,
+                "y": 640.6892264562518
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 13.915097025379737,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 16.192112902259993,
+                "x": 186.2092983759897,
+                "y": 643.1304843366383
+            },
+            {
+                "class": "headlight(h)",
+                "height": 208.09705267936772,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 281.086317425116,
+                "x": 1635.2701229207025,
+                "y": 681.7507919868835
+            },
+            {
+                "class": "headlight(h)",
+                "height": 6.471516437435753,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 8.074552619185852,
+                "x": 194.9173253587287,
+                "y": 648.9921667670617
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-54-190_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 61.71472031637961,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 47.80215330864084,
+                "x": 131.63428784245124,
+                "y": 611.7962158531271
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 30.322261427122953,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 33.889586300902096,
+                "x": 190.85188074718542,
+                "y": 631.0597701715346
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 802.6509031101722,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 1411.7212942937736,
+                "x": 507.5586593196677,
+                "y": 406.04692745573414
+            },
+            {
+                "class": "headlight(h)",
+                "height": 121.15314806145045,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 78.1988501123908,
+                "x": 1840.426458278944,
+                "y": 682.8631981645394
+            },
+            {
+                "class": "headlight(h)",
+                "height": 6.149999999999977,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 8.900000000000091,
+                "x": 193.7500000000015,
+                "y": 641.950000000005
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-09-55-189_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 64.12144727000555,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 55.80940780907888,
+                "x": 33.248157843706565,
+                "y": 606.7788806476448
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 99.74423462277332,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 83.6179212406483,
+                "x": 93.77152596272701,
+                "y": 587.1172612825519
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 27.071188758466064,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 25.55317817387919,
+                "x": 165.7161554840679,
+                "y": 615.5532920499805
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 30.360211691737618,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 28.58919934305294,
+                "x": 209.48546067298966,
+                "y": 619.6013202755455
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 73.939942658821,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 89.02972687490683,
+                "x": 241.4365474573744,
+                "y": 619.6871384739276
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 239.00000000000296,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 404.0000000000051,
+                "x": 367.00000000000466,
+                "y": 589.0000000000075
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 96.18217090500832,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 254.11092066261472,
+                "x": 1214.7451955039946,
+                "y": 719.5851304745071
+            },
+            {
+                "class": "headlight(h)",
+                "height": 32.61901267732242,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 93.39832406888013,
+                "x": 496.3252648383958,
+                "y": 686.1726120035316
+            },
+            {
+                "class": "headlight(h)",
+                "height": 13.220132521814548,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 17.46946083239783,
+                "x": 258.85491625302996,
+                "y": 645.7798663111386
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.25,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 5.5,
+                "x": 211.70000000000002,
+                "y": 631.6500000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-10-47-187_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 67.68000000000086,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 64.86000000000087,
+                "x": 14.100000000000186,
+                "y": 610.530000000008
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 91.38244249870854,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 72.86704565256503,
+                "x": 103.92513068480585,
+                "y": 598.4654077366406
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 15.696229444628443,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 15.339496957250475,
+                "x": 180.14990612584836,
+                "y": 620.7145280375765
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 13.098672893007347,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 13.636974518747422,
+                "x": 199.88933702479764,
+                "y": 621.9178116049809
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 29.247721665208246,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 28.709420039468228,
+                "x": 206.88725815941805,
+                "y": 626.5830923613945
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 77.51813367294153,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 94.03839166881437,
+                "x": 264.7477242928331,
+                "y": 627.7698038431658
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 415.51290000000586,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 805.1805000000112,
+                "x": 451.2987000000063,
+                "y": 546.7275000000076
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 132.26829650751722,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 202.5881503469568,
+                "x": 1717.8135723634514,
+                "y": 703.1985383943953
+            },
+            {
+                "class": "headlight(h)",
+                "height": 63.19875038942189,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 217.05958248932336,
+                "x": 824.2308231416224,
+                "y": 712.0613132881459
+            },
+            {
+                "class": "headlight(h)",
+                "height": 14.902299319232611,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 18.4052302349088,
+                "x": 280.94693377931753,
+                "y": 655.7605417566699
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.7999999999999545,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 6.75,
+                "x": 208.9,
+                "y": 637.45
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-10-48-186_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 771.382800000011,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 1290.2769000000185,
+                "x": 628.2396000000089,
+                "y": 437.3820000000062
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 85.14286813257513,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 105.47549335826483,
+                "x": 268.56009152265017,
+                "y": 623.1102438956127
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 29.403097190210588,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 27.485503895196842,
+                "x": 203.26488927145573,
+                "y": 627.2660733911589
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 15.766878203446254,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 19.17593295013731,
+                "x": 181.95829710463647,
+                "y": 622.1524912711224
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 70.00000000000102,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 70.00000000000108,
+                "x": 4.000000000000061,
+                "y": 606.0000000000093
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 87.26084992691801,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 74.1293628019934,
+                "x": 99.54514433410542,
+                "y": 596.847269645764
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 12.560371267267328,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 11.304334140540647,
+                "x": 196.83896114560451,
+                "y": 621.5589438544887
+            },
+            {
+                "class": "headlight(h)",
+                "height": 17.245107013005168,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 19.003103358991154,
+                "x": 287.22311728942157,
+                "y": 652.7189290310755
+            },
+            {
+                "class": "headlight(h)",
+                "height": 4.899999999999977,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 5.899999999999977,
+                "x": 205.10000000000002,
+                "y": 637.45
+            },
+            {
+                "class": "headlight(h)",
+                "height": 3.0,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 3.799999999999983,
+                "x": 184.35000000000002,
+                "y": 628.1500000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-10-49-188_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 73.66841830798444,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 78.69126501080153,
+                "x": -3.3485644685447458,
+                "y": 611.1130155094161
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 82.04847209692127,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 67.77917260180452,
+                "x": 107.73321118813139,
+                "y": 606.8019610298394
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 19.827914670442055,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 16.823685174920485,
+                "x": 169.7389664969658,
+                "y": 611.9615482377333
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 18.3257999226812,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 19.227068771337713,
+                "x": 186.86307462143844,
+                "y": 629.3860793117581
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 28.540180207454455,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 27.63891135879797,
+                "x": 200.98295325038956,
+                "y": 635.6949612523532
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 97.35515115875523,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 116.46781887090344,
+                "x": 268.7718897020849,
+                "y": 625.3425967068508
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 837.141117136187,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 678.0843048803115,
+                "x": 1243.9917000643736,
+                "y": 373.36493824273936
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 102.74253437011635,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 229.0653225300955,
+                "x": 955.000278489443,
+                "y": 693.0910310377527
+            },
+            {
+                "class": "headlight(h)",
+                "height": 17.766000000000076,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 22.63050000000004,
+                "x": 287.21700000000044,
+                "y": 659.3160000000009
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.600000000000023,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 6.5,
+                "x": 202.75000000000009,
+                "y": 646.3000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-10-50-184_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 110.00000000000182,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 215.00000000000364,
+                "x": 1193.0000000000205,
+                "y": 703.000000000012
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 117.00000000000193,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 270.00000000000466,
+                "x": 788.0000000000135,
+                "y": 677.0000000000116
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 83.50020000000143,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 73.55970000000124,
+                "x": -5.964300000000101,
+                "y": 600.4062000000101
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 77.49331134521753,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 67.58047004043068,
+                "x": 110.98197651658663,
+                "y": 603.088375836236
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 17.584519774174396,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 15.610747146460909,
+                "x": 189.6616061357378,
+                "y": 623.8915842326966
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 13.995842269240825,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 15.251879395967563,
+                "x": 192.35311426443795,
+                "y": 633.5810134960171
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 29.24772166520836,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 28.52998616422167,
+                "x": 201.68367577726517,
+                "y": 633.7604473712639
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 103.92513068480628,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 134.3859448510426,
+                "x": 271.16097316610376,
+                "y": 618.7726171808007
+            },
+            {
+                "class": "headlight(h)",
+                "height": 18.835675135563974,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 23.60737950324011,
+                "x": 297.7710953653374,
+                "y": 654.6443536004887
+            },
+            {
+                "class": "headlight(h)",
+                "height": 5.4500000000000455,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 7.0,
+                "x": 204.8,
+                "y": 644.1
+            },
+            {
+                "class": "headlight(h)",
+                "height": 2.6499999999999773,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 3.9000000000000057,
+                "x": 193.9,
+                "y": 640.4000000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-10-51-187_V00.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "vehicle(v)",
+                "height": 111.09238107686201,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 141.55319524309823,
+                "x": 279.5227652901687,
+                "y": 618.1753463147961
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 28.840603157006626,
+                "type": "vehicle",
+                "veh": "small_s",
+                "width": 27.638911358798026,
+                "x": 206.39056634232867,
+                "y": 635.6949612523545
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 18.92664582178554,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 19.22706877133774,
+                "x": 196.7770319566598,
+                "y": 635.9953842019066
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 16.523262225368285,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 12.918186830742542,
+                "x": 191.6698418142732,
+                "y": 628.785233412655
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 77.51813367294187,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 65.65743562462293,
+                "x": 115.21820961224151,
+                "y": 602.3540223110567
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 93.06000000000165,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 69.09000000000128,
+                "x": 0.0,
+                "y": 599.2500000000111
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 130.0000000000024,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 313.0000000000057,
+                "x": 924.0000000000173,
+                "y": 693.000000000013
+            },
+            {
+                "class": "vehicle(v)",
+                "height": 132.0000000000025,
+                "type": "vehicle",
+                "veh": "notcare",
+                "width": 236.00000000000455,
+                "x": 1455.000000000027,
+                "y": 709.0000000000132
+            },
+            {
+                "class": "headlight(h)",
+                "height": 19.421673917559133,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 24.611948843803532,
+                "x": 308.1516452178256,
+                "y": 657.7417757338919
+            },
+            {
+                "class": "headlight(h)",
+                "height": 4.899999999999977,
+                "hl": "headlight",
+                "type": "headlight",
+                "width": 5.949999999999989,
+                "x": 209.2500000000003,
+                "y": 646.200000000001
+            }
+        ],
+        "class": "image",
+        "filename": "..//images//2016-02-12-01-10-52-189_V00.jpg"
+    }
+]
